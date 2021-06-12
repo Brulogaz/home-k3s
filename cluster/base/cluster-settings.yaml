@@ -5,5 +5,5 @@ metadata:
   name: cluster-settings
   namespace: flux-system
 data:
-  METALLB_LB_RANGE: 172.22.128.100-172.22.128.200
-  INGRESS_NGINX_LB: 172.22.128.100
+  METALLB_LB_RANGE: 10.42.0.100-10.42.0.200
+  INGRESS_NGINX_LB: 10.42.0.100
